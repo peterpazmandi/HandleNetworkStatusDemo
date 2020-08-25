@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Handle Network Status</string>
+
+    <string name="text_no_connectivity">No Connection</string>
+    <string name="text_connectivity">Back Online</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum orci vitae ligula fermentum placerat. Nullam at tristique mi, ut gravida mi. Quisque egestas cursus sodales. Vestibulum placerat ex velit, et ullamcorper elit rhoncus at. Donec laoreet placerat lacus sit amet finibus. Aliquam urna elit, gravida vitae sem sit amet, consectetur mollis turpis. Maecenas eu aliquet lectus. Quisque a gravida magna. Nunc non consectetur tortor, sit amet commodo magna. Donec imperdiet nulla in interdum volutpat.</string>
+</resources>
